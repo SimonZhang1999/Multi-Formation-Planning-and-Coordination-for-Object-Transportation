@@ -19,6 +19,8 @@ This project is divided into the following tasks:
 
 4. [Robotics Toolbox](https://github.com/star2dust/Robotics-Toolbox)
 
+5. [CVX](https://github.com/cvxr/CVX)
+
 ### Running the Code
 Before running the code, add the subfunction and data files to the working path: right-click `data`, `sub_function_draw`, `sub_function_gp`, `sub_function_mc`, `sub_function_ta`, `sub_function_ts`, `test` folder and select "Add to Path" and then select "Selected Folders and Subfolders ".
 
