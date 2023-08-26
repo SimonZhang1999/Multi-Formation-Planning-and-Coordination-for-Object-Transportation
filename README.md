@@ -42,3 +42,15 @@ This may take some time to complete, depending on the performance of the compute
 - run `motion_planning_fh_test.m` in the test folder to display animation: Multiple robots maintain formation and follow a global path to move objects.
 
 - run `Project_Presentation.m` in the test folder to show multi-robot task scheduling, 3 robots form formation, hold formation, and work together.
+
+If you find this work useful, please cite [	Multi-Formation Planning and Coordination for Object Transportation](https://scholar.google.co.uk/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=multi-formation+planning+and+coordination+for+object+transportation&btnG=) ([pdf](http://pure-oai.bham.ac.uk/ws/portalfiles/portal/199111934/paper_1158.pdf), [video]([https://youtu.be/igP7eaOyZuc](https://www.bilibili.com/video/BV1sP41167F8/?spm_id_from=333.999.0.0))):
+
+```bibtex
+@inproceedings{zhang2023multi,
+  title={Multi-Formation Planning and Coordination for Object Transportation},
+  author={Zhang, Weijian and Street, Charlie and Mansouri, Masoumeh},
+  booktitle={European Conference on Mobile Robots (ECMR23)},
+  year={2023},
+  organization={IEEE}
+}
+```
