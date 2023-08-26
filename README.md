@@ -1,6 +1,7 @@
-## Multi-robot Object Delivery in Formation Based on Convex Optimization
-
+## Multi-Formation Planning and Coordination for Object Transportation
+### Accepted for publication in 11th European Conference on Mobile Robots (ECMR 2023)
 ### Project Description
+This repository contains the supplementary document and the source code for the work.
 This project is divided into the following tasks:
 1.  Select a valid point in the map of randomly generated obstacles and generates the corresponding convex obstruction-free region.
 
