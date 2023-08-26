@@ -49,7 +49,7 @@ This may take some time to complete, depending on the performance of the compute
 
 ### Citation
 
-If you find this work useful, please cite [	Multi-Formation Planning and Coordination for Object Transportation](https://scholar.google.co.uk/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=multi-formation+planning+and+coordination+for+object+transportation&btnG=) ([pdf](http://pure-oai.bham.ac.uk/ws/portalfiles/portal/199111934/paper_1158.pdf), [video](https://www.bilibili.com/video/BV1sP41167F8/?spm_id_from=333.999.0.0):
+If you find this work useful, please cite [	Multi-Formation Planning and Coordination for Object Transportation](https://scholar.google.co.uk/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=multi-formation+planning+and+coordination+for+object+transportation&btnG=) ([pdf](http://pure-oai.bham.ac.uk/ws/portalfiles/portal/199111934/paper_1158.pdf), [video](https://www.bilibili.com/video/BV1sP41167F8/?spm_id_from=333.999.0.0)):
 
 ```bibtex
 @inproceedings{zhang2023multi,
