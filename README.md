@@ -27,7 +27,7 @@ This project is divided into the following tasks:
 5. [CVX](https://github.com/cvxr/CVX)
 
 ### Running the Code
-Before running the code, add the subfunction and data files to the working path: right-click `data`, `sub_function_draw`, `sub_function_gp`, `sub_function_mc`, `sub_function_ta`, `sub_function_ts`, `test` folder and select "Add to Path" and then select "Selected Folders and Subfolders ".
+Before running the code, add the subfunction and data files to the working path: right-click `data`, `plot`, `global_path_planning`, `motion_planning`, `task_allocation`, `trajectory_optimization`, `test` folder and select "Add to Path" and then select "Selected Folders and Subfolders ".
 
 - Modify the following different iteration conditions (comment out one of the two lines of code for  `Global_planning.m` in the `sub_function_gp` folder) to the first feasible or globally optimal trajectory, and the corresponding optimized trajectory:
 
