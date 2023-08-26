@@ -29,7 +29,7 @@ This project is divided into the following tasks:
 ### Running the Code
 Before running the code, add the subfunction and data files to the working path: right-click `data`, `plot`, `global_path_planning`, `motion_planning`, `task_allocation`, `trajectory_optimization`, `test` folder and select "Add to Path" and then select "Selected Folders and Subfolders ".
 
-- Modify the following different iteration conditions (comment out one of the two lines of code for  `Global_planning.m` in the `sub_function_gp` folder) to the first feasible or globally optimal trajectory, and the corresponding optimized trajectory:
+- Modify the following different iteration conditions (comment out one of the two lines of code for  `Global_planning.m` in the `global_path_planning` folder) to the first feasible or globally optimal trajectory, and the corresponding optimized trajectory:
 
 ```matlab
 while isempty(noderoute)
