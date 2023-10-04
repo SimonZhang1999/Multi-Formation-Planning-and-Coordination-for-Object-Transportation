@@ -4,7 +4,7 @@
 This repository contains the supplementary document and the source code for the work.
 ### 
 <!--[![Multi-Formation Planning and Coordination for Object Transportation](./ecmr.png)](https://www.bilibili.com/video/BV1sP41167F8/?spm_id_from=333.999.0.0)) -->
-[<img src="./ecmr.png" alt="Multi-Formation Planning and Coordination for Object Transportation" width="600">](https://www.bilibili.com/video/BV1sP41167F8/?spm_id_from=333.999.0.0)
+[<img src="./demo.gif" alt="Multi-Formation Planning and Coordination for Object Transportation" width="600">](https://www.bilibili.com/video/BV1sP41167F8/?spm_id_from=333.999.0.0)
 
 This project is divided into the following tasks:
 1.  Select a valid point in the map of randomly generated obstacles and generates the corresponding convex obstruction-free region.
