@@ -1,13 +1,23 @@
-# Multi-Formation Planning and Coordination for Object Transportation #
-### **Accepted for publication in 11th European Conference on Mobile Robots (ECMR 2023)**
+<div align ="center">
+<h3> ECMR 2023: Multi-Formation Planning and Coordination for Object Transportation </h3>
+
+Weijian Zhang, Charlie Street, Masoumeh Mansouri
+
+University of Birmingham
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10256314"><img alt="Paper" src="https://img.shields.io/badge/Paper-IEEE%20Xplore-pink"/></a>
+<a href="https://www.bilibili.com/video/BV1sP41167F8/?spm_id_from=333.1387.list.card_archive.click"><img alt="Video" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
+</div>
 ### Project Description
 This repository contains the supplementary document and the source code for the work.
 ### 
 <!--[![Multi-Formation Planning and Coordination for Object Transportation](./ecmr.png)](https://www.bilibili.com/video/BV1sP41167F8/?spm_id_from=333.999.0.0)) -->
-[<img src="./demo.gif" alt="Multi-Formation Planning and Coordination for Object Transportation" width="600">](https://www.bilibili.com/video/BV1sP41167F8/?spm_id_from=333.999.0.0)
+<p align="center">
+  <img src="./demo.gif" alt="Multi-Formation Planning and Coordination for Object Transportation" width="600">
+</p>
 
 This project is divided into the following tasks:
-1.  Select a valid point in the map of randomly generated obstacles and generates the corresponding convex obstruction-free region.
+1.  Select a valid point in the map of randomly generated obstacles and generate the corresponding convex obstruction-free region.
 
 2.  Global path planning and trajectory optimization.
 
